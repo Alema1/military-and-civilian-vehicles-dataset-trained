@@ -10,6 +10,8 @@ This repo contains a dataset with military and civillian vehicles, planes and he
 
 ![alt text](https://github.com/Alema1/military-and-civilian-vehicles-dataset-trained/blob/main/labels_correlogram.jpg?raw=true)
 
+![alt text](https://github.com/Alema1/military-and-civilian-vehicles-dataset-trained/blob/main/confusion_matrix.png?raw=true)
+
 # Visualize the results:
 
 ![alt text](https://github.com/Alema1/military-and-civilian-vehicles-dataset-trained/blob/main/val_batch1_pred.jpg?raw=true)
